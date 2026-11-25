@@ -1,0 +1,30 @@
+name: Good first issue proposal
+description: Suggest a small task for a first-time contributor.
+title: "docs: "
+labels: ["good first issue", beginner, needs-triage]
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: Small task
+      description: Describe one outcome someone can complete in one PR. Adjust the title prefix to match the work.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List the checks the contributor can run locally.
+    validations:
+      required: true
+  - type: textarea
+    id: hints
+    attributes:
+      label: Likely files and a starting hint
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Suggested AI prompt
+      description: Help the student start by asking the AI to read AGENTS.md and the issue.
