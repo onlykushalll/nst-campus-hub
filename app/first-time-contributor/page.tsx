@@ -94,7 +94,7 @@ export default function FirstTimeContributorPage() {
           ))}
           <section className="rounded-2xl bg-primary p-5 text-primary-foreground sm:p-7" aria-labelledby="claim-title">
             <h2 id="claim-title" className="text-xl font-bold sm:text-2xl">You’re ready. Go claim a good first issue.</h2>
-            <p className="mt-2 leading-relaxed">Pick one task, leave a comment, and wait for a maintainer to assign you.</p>
+            <p className="mt-2 leading-relaxed">Open an unassigned issue, ask to work on it in a GitHub comment, and wait until your username appears under Assignees.</p>
             <a href={beginnerIssues} className="mt-4 inline-flex items-center gap-2 rounded-lg bg-card px-4 py-2.5 text-sm font-semibold text-primary hover:bg-secondary focus-visible:outline-primary-foreground">Browse good first issues <span aria-hidden="true">↗</span></a>
           </section>
         </div>

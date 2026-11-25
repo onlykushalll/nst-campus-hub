@@ -48,14 +48,14 @@ export const steps: GuideStep[] = [
   },
   {
     id: "issue",
-    nav: "Claim one issue",
+    nav: "Ask for assignment",
     title: "Pick one issue and ask to work on it",
     intro: "A good first issue is scoped for beginners. Acceptance criteria tell you what the maintainer will check before accepting the change.",
     actions: [
       { text: "Open the filtered Issues list. Pick one open issue, read its acceptance criteria, and check the Assignees panel and comments for anyone already working on it.", link: { href: beginnerIssues, label: "Browse good first issues" } },
-      { text: "Scroll to the comment box, adapt this message, click Comment, and wait for a maintainer to assign you.", label: "Example issue comment", code: "Hi! Could I work on this issue? I’ve read the acceptance criteria and will check the change locally before opening a PR." },
+      { text: "Sign in to GitHub and scroll to the bottom of the issue. Type a regular comment like the one below, click Comment, and wait for a maintainer to assign you.", label: "Example issue comment", code: "Hi! Could I work on this issue? I’ve read the acceptance criteria and will check the change locally before opening a PR." },
     ],
-    expected: "Your comment appears. When the maintainer assigns you, the Assignees panel shows your account. The number beside the issue title is the number you’ll use in Git.",
+    expected: "Your comment appears. Once a maintainer assigns you, your GitHub username appears under Assignees. That’s when you can start. The number beside the issue title is the number you’ll use in Git.",
     mistake: "Starting while an issue is assigned to someone else or your request is pending. Work on one assigned issue at a time.",
   },
   {
