@@ -3,7 +3,7 @@ import Link from "next/link";
 import { EventCard } from "@/components/event-card";
 import { Badge } from "@/components/ui/badge";
 import { getEvents, getProjects, getStudents } from "@/lib/data";
-import campusIllustration from "@/public/campus-collaboration.webp";
+import gitBranchesIllustration from "@/public/git-branches.webp";
 
 export default async function HomePage() {
   const [students, projects, events] = await Promise.all([getStudents(), getProjects(), getEvents()]);
@@ -29,8 +29,8 @@ export default async function HomePage() {
           </div>
         </div>
         <Image
-          src={campusIllustration}
-          alt="Campus illustration"
+          src={gitBranchesIllustration}
+          alt="Coding illustration"
           preload
           sizes="(min-width: 72rem) 34rem, (min-width: 64rem) 50vw, 100vw"
           className="aspect-[3/2] h-full w-full object-cover"
