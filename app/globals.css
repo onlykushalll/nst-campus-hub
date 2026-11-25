@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--secondary);
+  --color-accent-foreground: var(--secondary-foreground);
+  --color-border: var(--border);
+  --color-input: var(--border);
+  --color-ring: var(--primary);
+  --color-destructive: #b91c1c;
+  --radius-lg: var(--radius);
+}
+
+:root {
+  --background: #faf8f3;
+  --foreground: #211d36;
+  --card: #fffdf9;
+  --primary: #4233ad;
+  --primary-foreground: #fff;
+  --secondary: #ebe6fc;
+  --secondary-foreground: #382b85;
+  --muted: #f2eee5;
+  --muted-foreground: #5c556b;
+  --border: #dad4e1;
+  --radius: 0.875rem;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  a:focus-visible {
+    @apply outline-2 outline-offset-4 outline-primary;
+  }
+}
