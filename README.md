@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000). Stop the development server
 
 ## Contribute in five steps
 
-1. Pick an unassigned issue and leave a comment asking to work on it. Wait for assignment.
+1. Pick an unassigned [GitHub issue](https://github.com/shinchan068/nst-campus-hub/issues) and leave a comment asking to work on it. Wait for assignment.
 2. Fork and clone the repository, then create a branch with the issue number.
 3. Give your AI tool the issue and [AGENTS.md](AGENTS.md). Review the change and make sure you can explain it.
 4. Run lint and build, then make a Conventional Commit and push your branch to your fork.

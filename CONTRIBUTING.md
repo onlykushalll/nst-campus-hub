@@ -8,12 +8,12 @@ Open the repository's **Issues** tab and look for an unassigned issue. If you're
 
 ## 2. Fork, clone, and make a branch
 
-Click **Fork** on GitHub. Substitute the fork URL and official repo URL in these commands. `origin` is your fork. `upstream` is the official repo.
+Click **Fork** on GitHub. Substitute your fork URL and local folder name in these commands. `origin` is your fork. `upstream` is the official repo.
 
 ```sh
 git clone <your-fork-url>
 cd <repo-folder>
-git remote add upstream <official-repo-url>
+git remote add upstream https://github.com/shinchan068/nst-campus-hub.git
 git fetch upstream
 git checkout main
 git rebase upstream/main
