@@ -1,0 +1,13 @@
+{
+  "username": "demo-aadya",
+  "name": "Aadya Rao",
+  "program": "Computer Science",
+  "year": 2,
+  "bio": "Builds tools that make campus life easier.",
+  "skills": [
+    "React",
+    "TypeScript",
+    "CSS"
+  ],
+  "demo": true
+}

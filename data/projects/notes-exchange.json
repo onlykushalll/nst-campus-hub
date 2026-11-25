@@ -1,0 +1,11 @@
+{
+  "slug": "notes-exchange",
+  "name": "Notes Exchange",
+  "description": "Find study notes by subject and share links with classmates.",
+  "author": "demo-riya",
+  "tags": [
+    "Next.js",
+    "TypeScript"
+  ],
+  "demo": true
+}

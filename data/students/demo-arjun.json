@@ -1,0 +1,13 @@
+{
+  "username": "demo-arjun",
+  "name": "Arjun Sen",
+  "program": "Computer Science",
+  "year": 3,
+  "bio": "Enjoys debugging APIs and sharing what he learns.",
+  "skills": [
+    "Node.js",
+    "Python",
+    "Git"
+  ],
+  "demo": true
+}

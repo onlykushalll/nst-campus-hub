@@ -1,0 +1,9 @@
+{
+  "slug": "your-event",
+  "title": "Your Event",
+  "description": "Explain what attendees can expect.",
+  "date": "2027-03-01",
+  "type": "Workshop",
+  "location": "Campus lab",
+  "demo": false
+}

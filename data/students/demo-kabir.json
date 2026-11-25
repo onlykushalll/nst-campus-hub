@@ -1,0 +1,13 @@
+{
+  "username": "demo-kabir",
+  "name": "Kabir Das",
+  "program": "Computer Science",
+  "year": 3,
+  "bio": "Helps classmates ship their first web projects.",
+  "skills": [
+    "Next.js",
+    "React",
+    "TypeScript"
+  ],
+  "demo": true
+}

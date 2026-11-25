@@ -1,0 +1,11 @@
+{
+  "slug": "dsa-practice-room",
+  "name": "DSA Practice Room",
+  "description": "Track practice problems and collect notes from group sessions.",
+  "author": "demo-isha",
+  "tags": [
+    "Python",
+    "DSA"
+  ],
+  "demo": true
+}

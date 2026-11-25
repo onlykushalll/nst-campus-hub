@@ -1,0 +1,9 @@
+{
+  "slug": "hack-day",
+  "title": "NST Hack Day",
+  "description": "Build a working prototype with a team and demo it at the end of the day.",
+  "date": "2026-12-12",
+  "type": "Hackathon",
+  "location": "Campus auditorium",
+  "demo": true
+}

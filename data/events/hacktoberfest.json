@@ -1,0 +1,9 @@
+{
+  "slug": "hacktoberfest",
+  "title": "Hacktoberfest Kickoff",
+  "description": "Walk through finding an issue and opening a first pull request.",
+  "date": "2026-10-09",
+  "type": "Workshop",
+  "location": "Campus lab",
+  "demo": true
+}

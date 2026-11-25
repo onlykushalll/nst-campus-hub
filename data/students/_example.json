@@ -1,0 +1,11 @@
+{
+  "username": "your-github-username",
+  "name": "Your Name",
+  "program": "Computer Science",
+  "year": 1,
+  "bio": "A short introduction.",
+  "skills": [
+    "Git"
+  ],
+  "demo": false
+}

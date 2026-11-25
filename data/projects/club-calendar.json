@@ -1,0 +1,11 @@
+{
+  "slug": "club-calendar",
+  "name": "Club Calendar",
+  "description": "See what student clubs are hosting across campus this week.",
+  "author": "demo-meera",
+  "tags": [
+    "React",
+    "CSS"
+  ],
+  "demo": true
+}

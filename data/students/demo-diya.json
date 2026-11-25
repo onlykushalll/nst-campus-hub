@@ -1,0 +1,13 @@
+{
+  "username": "demo-diya",
+  "name": "Diya Mehta",
+  "program": "Computer Science",
+  "year": 1,
+  "bio": "Turns sketches into simple web interfaces.",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "demo": true
+}

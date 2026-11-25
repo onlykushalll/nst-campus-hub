@@ -1,0 +1,13 @@
+{
+  "username": "demo-meera",
+  "name": "Meera Pillai",
+  "program": "Computer Science",
+  "year": 2,
+  "bio": "Designs interfaces for campus clubs and events.",
+  "skills": [
+    "Figma",
+    "React",
+    "CSS"
+  ],
+  "demo": true
+}

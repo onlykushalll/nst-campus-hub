@@ -1,0 +1,13 @@
+{
+  "username": "demo-riya",
+  "name": "Riya Bose",
+  "program": "Computer Science",
+  "year": 3,
+  "bio": "Prototypes ways to find and share study materials.",
+  "skills": [
+    "Next.js",
+    "TypeScript",
+    "Node.js"
+  ],
+  "demo": true
+}

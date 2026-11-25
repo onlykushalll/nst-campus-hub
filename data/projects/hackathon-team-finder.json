@@ -1,0 +1,11 @@
+{
+  "slug": "hackathon-team-finder",
+  "name": "Hackathon Team Finder",
+  "description": "Post the skills you bring and find teammates for the next hackathon.",
+  "author": "demo-kabir",
+  "tags": [
+    "Next.js",
+    "Tailwind CSS"
+  ],
+  "demo": true
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "campus-lost-and-found",
+  "name": "Campus Lost & Found",
+  "description": "An item board for reporting and recovering lost belongings.",
+  "author": "demo-diya",
+  "tags": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "demo": true
+}

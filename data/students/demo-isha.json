@@ -1,0 +1,13 @@
+{
+  "username": "demo-isha",
+  "name": "Isha Bhat",
+  "program": "Computer Science",
+  "year": 2,
+  "bio": "Organises group practice sessions on algorithms.",
+  "skills": [
+    "Python",
+    "DSA",
+    "Git"
+  ],
+  "demo": true
+}

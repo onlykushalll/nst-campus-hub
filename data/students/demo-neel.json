@@ -1,0 +1,13 @@
+{
+  "username": "demo-neel",
+  "name": "Neel Shah",
+  "program": "Computer Science",
+  "year": 1,
+  "bio": "Writes scripts to automate repetitive coursework.",
+  "skills": [
+    "Python",
+    "Bash",
+    "Git"
+  ],
+  "demo": true
+}

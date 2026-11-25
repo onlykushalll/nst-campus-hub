@@ -1,0 +1,10 @@
+{
+  "slug": "your-project",
+  "name": "Your Project",
+  "description": "Describe what the project does.",
+  "author": "your-github-username",
+  "tags": [
+    "React"
+  ],
+  "demo": false
+}

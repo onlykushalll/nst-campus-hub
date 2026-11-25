@@ -1,0 +1,11 @@
+{
+  "slug": "mess-menu",
+  "name": "Mess Menu",
+  "description": "Find out what is on the hostel mess menu this week.",
+  "author": "demo-aadya",
+  "tags": [
+    "React",
+    "TypeScript"
+  ],
+  "demo": true
+}
