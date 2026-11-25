@@ -19,7 +19,7 @@ export default async function HomePage() {
       <section className="grid overflow-hidden rounded-3xl border border-border bg-card lg:grid-cols-2">
         <div className="self-center p-6 sm:p-10 lg:p-12">
           <Badge variant="secondary" className="mb-5">Open source practice repo</Badge>
-          <h1 className="text-4xl leading-tight font-bold tracking-tight sm:text-5xl lg:text-6xl">NST Campus Hub</h1>
+          <h1 className="text-4xl leading-tight font-bold tracking-tight sm:text-5xl xl:text-[3.25rem]">NST Campus Hub</h1>
           <p className="mt-4 max-w-lg text-base leading-relaxed text-muted-foreground sm:text-lg">
             Explore what Newton School of Technology students build and learn, then make your first open source contribution.
           </p>
